@@ -1,2 +1,3 @@
 Bed Indicators
 Number of Admission
+Number of Discharge
