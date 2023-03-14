@@ -3,3 +3,4 @@ Bed Stats and Top10 OPD
 Bed Indicators 
 Number of Admission
 Number of Discharge
+IPD
