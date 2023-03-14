@@ -1,1 +1,2 @@
 Bed Indicators
+Number of Admission
